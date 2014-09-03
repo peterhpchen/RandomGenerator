@@ -1,0 +1,9 @@
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\business\RandomGenerator\RandomGenerator\bin\Debug\RandomGenerator.exe.config
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\business\RandomGenerator\RandomGenerator\bin\Debug\RandomGenerator.exe
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\business\RandomGenerator\RandomGenerator\bin\Debug\RandomGenerator.pdb
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\business\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\business\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.Form1.resources
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\business\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.Properties.Resources.resources
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\business\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.csproj.GenerateResource.Cache
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\business\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.exe
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\business\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.pdb
